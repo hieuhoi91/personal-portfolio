@@ -35,5 +35,3 @@ The app will run in the development mode.
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>

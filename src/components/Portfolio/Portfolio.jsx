@@ -17,13 +17,13 @@ const Portfolio = () => {
           <div className="underline"></div>
         </div>
 
-        {projects.map(project => {
+        {projects.map((project) => {
           return <Project project={project} key={project.id} />;
         })}
       </div>
       <div className="more-btn">
         <a
-          href="https://github.com/namnguyen-dev"
+          href="https://github.com/hieuhoi91"
           className="btn project-btn"
           target="_blank"
           rel="noopener noreferrer"

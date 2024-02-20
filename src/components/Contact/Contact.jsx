@@ -123,7 +123,7 @@ const Contact = () => {
                 </svg>
                 <span>
                   Website:
-                  <a href="#home"> namdeveloper.netlify.app/</a>
+                  <a href="#home"> hieuhoideveloper.netlify.app/</a>
                 </span>
               </li>
             </ul>
