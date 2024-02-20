@@ -1,13 +1,5 @@
 # Personal Portfolio
 
-## Demo
-
-Live project: [https://hieuhoideveloper.netlify.app/](https://hieuhoideveloper.netlify.app/)
-
-<img src="https://media.giphy.com/media/LQtUjUi9dkjLT7Cxhh/giphy.gif" width="600" height="400"/>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## Features
 
 ✨ Fully Responsive\
